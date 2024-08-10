@@ -1,0 +1,14 @@
+.papper {
+    padding: 100px 100px;
+}
+body {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.papper {
+    border: 5px solid white;
+    position: absolute;
+}
